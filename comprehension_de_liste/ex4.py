@@ -41,3 +41,7 @@ eleves = [
     ("Manon Tessier", 1)
 ]
 
+# genere la liste qui affiche seulement le prénom et note des eleves
+prenoms_notes = [(nom.split()[0], note) for nom, note in eleves ]
+print(prenoms_notes)
+

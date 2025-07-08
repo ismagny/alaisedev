@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c7180c3-afff-4963-9cf3-dafa263c4bb2" name="Changes" comment="" />
+    <list default="true" id="8c7180c3-afff-4963-9cf3-dafa263c4bb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonctions/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fonctions/ex2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,11 +32,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex1 (1).executor": "Run",
     "Python.ex1.executor": "Run",
     "Python.ex2 (1).executor": "Run",
     "Python.ex2.executor": "Run",
     "Python.ex3.executor": "Run",
     "Python.ex4.executor": "Run",
+    "Python.ex5 (1).executor": "Run",
     "Python.ex5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -44,7 +54,7 @@
   }
 }]]></component>
   <component name="RunManager" selected="Python.ex4">
-    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alaisedev" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,12 +63,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fonctions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comprehension_de_liste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions/ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehension_de_liste/ex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alaisedev" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fonctions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comprehension_de_liste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions/ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehension_de_liste/ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,12 +109,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fonctions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comprehension_de_liste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions/ex3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehension_de_liste/ex3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fonctions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comprehension_de_liste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions/ex4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehension_de_liste/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alaisedev" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fonctions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comprehension_de_liste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions/ex5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprehension_de_liste/ex5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,10 +172,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ex4" />
-        <item itemvalue="Python.ex5" />
+        <item itemvalue="Python.ex2" />
+        <item itemvalue="Python.ex5 (1)" />
         <item itemvalue="Python.ex3" />
-        <item itemvalue="Python.ex2 (1)" />
-        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.ex1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751969830315</updated>
       <workItem from="1751969831421" duration="4505000" />
-      <workItem from="1751977376218" duration="669000" />
+      <workItem from="1751977376218" duration="4068000" />
     </task>
     <servers />
   </component>
@@ -193,11 +203,13 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/alaisedev$ex2__1_.coverage" NAME="ex2 (1) Coverage Results" MODIFIED="1751976014191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
-    <SUITE FILE_PATH="coverage/alaisedev$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1751975547087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comprehension_de_liste" />
-    <SUITE FILE_PATH="coverage/alaisedev$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1751977932155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
-    <SUITE FILE_PATH="coverage/alaisedev$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1751977757609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex1__1_.coverage" NAME="ex1 (1) Coverage Results" MODIFIED="1751982451212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comprehension_de_liste" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex2__1_.coverage" NAME="ex2 (1) Coverage Results" MODIFIED="1751978382840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1751983747767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comprehension_de_liste" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1751978319659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1751982978453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comprehension_de_liste" />
     <SUITE FILE_PATH="coverage/alaisedev$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1751975679344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
-    <SUITE FILE_PATH="coverage/alaisedev$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1751977759848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1751982448353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fonctions" />
+    <SUITE FILE_PATH="coverage/alaisedev$ex5__1_.coverage" NAME="ex5 (1) Coverage Results" MODIFIED="1751983312890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comprehension_de_liste" />
   </component>
 </project>

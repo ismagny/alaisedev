@@ -42,4 +42,5 @@ eleves = [
 ]
 
 # génére la liste des élèves ayant eu moins de 8
-
+eleve_moins_de_8 = [eleve for eleve in eleves if eleve[1] < 8]
+print(eleve_moins_de_8)
